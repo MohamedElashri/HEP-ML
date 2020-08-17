@@ -3,10 +3,10 @@ My Machine Learning applications in High energy physics learning journey.
 
 
 
-## Tutorials
+# Tutorials
 
 
-## Projects 
+# Projects 
 
 
 
