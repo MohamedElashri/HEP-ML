@@ -7,7 +7,7 @@ My Machine Learning applications in High energy physics learning journey.
 
 
 ## Projects 
-[Higgs Kaggle challenge solution.][https://github.com/MohamedElashri/HEP-ML/blob/master/Higgs_Boson_Challange.ipynb] 
+[Higgs Kaggle challenge solution.](https://github.com/MohamedElashri/HEP-ML/blob/master/Higgs_Boson_Challange.ipynb)
 
 ## Papers
 
