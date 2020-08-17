@@ -12,5 +12,5 @@ My Machine Learning applications in High energy physics learning journey.
 
 
 ## Resources
--[Machine Learning in High Energy Physics Community White Paper](https://arxiv.org/abs/1807.02876)
+- [Machine Learning in High Energy Physics Community White Paper](https://arxiv.org/abs/1807.02876)
 
