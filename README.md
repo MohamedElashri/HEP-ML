@@ -8,7 +8,7 @@ My Machine Learning applications in High energy physics learning journey.
 - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2019](https://github.com/yandexdataschool/mlhep2019)
 
 ## Projects 
-- [Higgs Kaggle challenge solution.](https://github.com/MohamedElashri/HEP-ML/blob/master/Higgs_Boson_Challange.ipynb)
+- [Higgs Kaggle challenge solution.](https://github.com/MohamedElashri/HEP-ML/blob/master/projects/Higgs_Boson_Challange.ipynb)
 - [MiniBooNE Particle Identification ](https://github.com/MohamedElashri/HEP-ML/blob/master/projects/MiniBooNE_Particle_Identification.ipynb)
 
 ## Resources
