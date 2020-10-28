@@ -8,9 +8,9 @@ My Machine Learning applications in High energy physics learning journey.
 - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2019](https://github.com/yandexdataschool/mlhep2019)
 
 ## Projects 
-- [Higgs Kaggle challenge solution.](https://github.com/MohamedElashri/HEP-ML/blob/master/projects/Higgs_Boson_Challange.ipynb)
+- [Higgs Kaggle challenge solution.](https://github.com/MohamedElashri/HEP-ML/blob/master/projects/Higgs%20challenge%20School/Higgs_Boson_Challange.ipynb)
 - [MicroBooNE Particle Identification ](https://github.com/MohamedElashri/HEP-ML/blob/master/projects/MicroBooNE_Particle_Identification.ipynb)
-- [Higgs Classification Problem.](https://github.com/MohamedElashri/HEP-ML/blob/master/projects/Higgs.ipynb)
+- [Higgs Classification Problem.](https://github.com/MohamedElashri/HEP-ML/blob/master/projects/MicroBooNE%20Particle%20Identification/MicroBooNE_Particle_Identification.ipynb)
 
 ## Resources
 - [Machine Learning in High Energy Physics Community White Paper](https://arxiv.org/abs/1807.02876)
