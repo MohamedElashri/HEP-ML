@@ -9,7 +9,7 @@ My Machine Learning applications in High energy physics learning journey.
 
 ## Projects 
 - [Higgs Kaggle Challenge Solution.](https://github.com/MohamedElashri/HEP-ML/blob/master/projects/Higgs%20challenge%20School/Higgs_Boson_Challange.ipynb)
-- [MiniBooNE Particle Identification ](https://github.com/MohamedElashri/HEP-ML/blob/master/projects/MicroBooNE%20Particle%20Identification/MicroBooNE_Particle_Identification.ipynb)
+- [MiniBooNE Particle Identification ](https://github.com/MohamedElashri/HEP-ML/blob/master/projects/MicroBooNE%20Particle%20Identification/MicroBooNE_Particle_Identification.ipynb) - [Accompanying blog post](https://melashri.xyz/blog/miniboone-particle-identification/)
 - [Higgs Classification Problem.](https://github.com/MohamedElashri/HEP-ML/blob/master/projects/Higgs%20challenge/Higgs.ipynb)
 - [Generating Theoretical particle physics abstracts using NLP.](https://github.com/MohamedElashri/HEP-ML/blob/master/Projects/NLP/NLP.ipynb)
 - [Experimenting Machine Learning Techniques on SUSY dataset](https://github.com/MohamedElashri/SUSY).
