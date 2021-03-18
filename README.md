@@ -16,8 +16,8 @@ My Machine Learning applications in High energy physics learning journey.
 
 
 ## Resources
-- [Machine Learning in High Energy Physics Community White Paper](https://arxiv.org/abs/1807.02876)
-- [LUMIN Unifies Many Improvements for Networks: A PyTorch wrapper to make deep learning more accessable to scientists](https://pypi.org/project/lumin/)
+- [Machine Learning in High Energy Physics paper](https://arxiv.org/abs/1807.02876): Machine Learning in High Energy Physics Community White Paper
+- [LUMIN Unifies Many Improvements for Networks](https://pypi.org/project/lumin/):  A PyTorch wrapper to make deep learning more accessable to scientists
 - [Scikit-HEP](http://scikit-hep.org/): Toolset of interfaces and Python tools for Particle Physics
 
 
